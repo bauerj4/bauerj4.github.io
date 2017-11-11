@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = 'Jake Bauer'
 SITENAME = "Jake's Science Blog"
 SITEURL = ''
-THEME   = './pelican-themes/tuxlite_zf' #'./pelican-themes/bootstrap2'
-#THEME = './pelican-themes/bootstrap2'
+#THEME   = './pelican-themes/tuxlite_zf' #'./pelican-themes/bootstrap2'
+THEME = './pelican-themes/bootstrap2'
 
 PATH = 'content'
 
